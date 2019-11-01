@@ -9,7 +9,7 @@ import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
 import com.tedu.web.util.JsonResult;
-@Component
+//@Component
 public class AccessFilter extends ZuulFilter{
 
 	@Override
